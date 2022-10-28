@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cdpaglingayen or Parad1gm
+- 👀 I’m interested in cloud computing and web development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on frontend development
+- 📫 How to reach me -> charlesdanius@gmail.com
