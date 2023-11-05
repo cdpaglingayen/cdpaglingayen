@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me -> charlesdanius@gmail.com
 
-[![GitHub Profile Languages](https://ionicabizau.github.io/github-profile-languages/api.html?@cdpaglingayen)](https://ionicabizau.github.io/github-profile-languages/api.html?@cdpaglingayen)
 
